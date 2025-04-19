@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/abrarsiddiquialvi/" target="blank"><img align="center" src="https://i.ibb.co/LS8kKg6/2021-Facebook-icon-svg.png" alt="https://www.facebook.com/abrarsiddiquialvi/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abrarsiddiquialvi/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfbcYeYgf0wQJ-LSPm3CPbyB7T1p0f5bnaA&s" alt="https://www.facebook.com/abrarsiddiquialvi/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-abrar-siddiqui-a933691b0/" target="blank"><img align="center" src="https://i.ibb.co/6HK3VN7/Linked-In-icon-svg.png" alt="https://www.linkedin.com/in/md-abrar-siddiqui-a933691b0/" height="30" width="40" /></a>
 </p>
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/Abraralvi2002" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" alt="logo" width="40" height="40"/> </a>
 <a href="https://www.codechef.com/users/abrar_alvi" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="logo" width="40" height="40"/> </a>
+<a href="https://www.hackerrank.com/profile/abrarsiddiqui734" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrrdjSfdAQujIopqqLDRjrtyT9SMd24aZuQ&s" alt="logo" width="40" height="40"/> </a>
 <a href="https://vjudge.net/user/Abrar_alvi" target="_blank" rel="noreferrer"> <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="logo" width="40" height="40"/> </a>
 </p>
 
