@@ -1,30 +1,79 @@
-<h1 align="center">Hi 👋, I'm Abrar Siddiqui </h1>
-<h3 align="center">A Passionate Code Learner </h3>
+<h1 align="center">Hi 👋, I'm Abrar Siddiqui</h1>
+<h3 align="center">A Passionate Code Learner</h3>
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my recent solved problems are available at [https://github.com/Abraralvi2002/Mygit_Repo]
+- 👨‍💻 Check out my recent solved problems: [My Git Repo](https://github.com/Abraralvi2002/Mygit_Repo)
 
-- 📫 How to reach me **abrarsiddiqui734@gmail.com**
+- 📫 Reach me at: **abrarsiddiqui734@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/abrarsiddiquialvi/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfbcYeYgf0wQJ-LSPm3CPbyB7T1p0f5bnaA&s" alt="https://www.facebook.com/abrarsiddiquialvi/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-abrar-siddiqui-a933691b0/" target="blank"><img align="center" src="https://i.ibb.co/6HK3VN7/Linked-In-icon-svg.png" alt="https://www.linkedin.com/in/md-abrar-siddiqui-a933691b0/" height="30" width="40" /></a>
+  <a href="mailto:abrarsiddiqui734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/abrarsiddiquialvi/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfbcYeYgf0wQJ-LSPm3CPbyB7T1p0f5bnaA&s" alt="Facebook" width="30" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-abrar-siddiqui-a933691b0/" target="_blank">
+    <img src="https://i.ibb.co/6HK3VN7/Linked-In-icon-svg.png" alt="LinkedIn" width="30" height="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 <h3 align="left">My Problem Solving Profiles:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/Abraralvi2002" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" alt="logo" width="40" height="40"/> </a>
-<a href="https://www.codechef.com/users/abrar_alvi" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="logo" width="40" height="40"/> </a>
-<a href="https://www.hackerrank.com/profile/abrarsiddiqui734" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrrdjSfdAQujIopqqLDRjrtyT9SMd24aZuQ&s" alt="logo" width="40" height="40"/> </a>
-<a href="https://vjudge.net/user/Abrar_alvi" target="_blank" rel="noreferrer"> <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="logo" width="40" height="40"/> </a>
+  <a href="https://codeforces.com/profile/Abraralvi2002" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" alt="Codeforces" width="40" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/abrar_alvi" target="_blank">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="CodeChef" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/abrarsiddiqui734" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrrdjSfdAQujIopqqLDRjrtyT9SMd24aZuQ&s" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://vjudge.net/user/Abrar_alvi" target="_blank">
+    <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="VJudge" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Thanks For Visiting My Profile😊. And Make Sure You Followed Me And Checked My Repositories.☘ </h3>
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraralvi2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Abrar's GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abraralvi2002&theme=tokyonight&hide_border=false" alt="Abrar's GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraralvi2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abrar's Top Languages" />
+</p>
+
+<h3 align="center">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abraralvi2002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+<h3 align="center">✍️ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+<h3 align="center">🔝 Top Contributed Repo:</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Abraralvi2002&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abraralvi2002&icon=0&color=0" alt="Profile Visit Counter"/>
+</p>
+
+<h3 align="center">Thanks for visiting my profile 😊</h3>
+<h4 align="center">Make sure to follow me and check out my repositories ☘️</h4>
