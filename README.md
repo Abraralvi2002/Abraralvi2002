@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 Check out my recent solved problems: [My Git Repo](https://github.com/Abraralvi2002/Mygit_Repo)
+- 👨‍💻 Check out my recent solved problems: [Phitron_task_practices](https://github.com/Abraralvi2002/Phitron_task_practices)
 
 - 📫 Reach me at: **abrarsiddiqui734@gmail.com**
 
