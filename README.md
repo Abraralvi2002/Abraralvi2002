@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans"/>
+  <img src="https://img.shields.io/badge/Code::Blocks-3B3B3B?style=for-the-badge&logo=code-blocks&logoColor=white" alt="Code::Blocks"/>
+  <img src="https://img.shields.io/badge/Python%20IDLE-FFE873?style=for-the-badge&logo=python&logoColor=black" alt="Python IDLE"/>
 </p>
 
 <h3 align="left">My Problem Solving Profiles:</h3>
