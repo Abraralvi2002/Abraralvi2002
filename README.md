@@ -46,6 +46,9 @@
   <a href="https://www.codechef.com/users/abrar_alvi" target="_blank">
     <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="CodeChef" width="40" height="40"/>
   </a>
+  <a href="https://leetcode.com/u/Abrar_Alvi/" target="_blank">
+    <img src="https://preview.redd.it/i-have-been-leetcoding-for-a-while-but-what-does-the-v0-ucy9q7w40wtc1.jpg?width=720&format=pjpg&auto=webp&s=41e11a55faf86e0b7bbbddf934b906212caa0fa9" alt="Leetcode" width="40" height="40"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/abrarsiddiqui734" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrrdjSfdAQujIopqqLDRjrtyT9SMd24aZuQ&s" alt="HackerRank" width="40" height="40"/>
   </a>
